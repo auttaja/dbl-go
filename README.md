@@ -1,6 +1,8 @@
 # dbl_go
---
-    import "github.com/auttaja/dbl-go"
+
+```go
+import "github.com/auttaja/dbl-go"
+```
 
 Package provides a Golang interface to the top.gg API
 
